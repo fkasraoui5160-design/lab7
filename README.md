@@ -1,8 +1,9 @@
-<img width="184" height="385" alt="image" src="https://github.com/user-attachments/assets/ff34a83b-1fa9-4195-a9e7-f4cab976d9e6" />
-![WhatsApp Image 2026-04-08 at 01 34 00](https://github.com/user-attachments/assets/e194314d-9759-4f21-b840-6c762d8f1ba9)
-![WhatsApp Image 2026-04-08 at 01 34 34](https://github.com/user-attachments/assets/e25fe227-5d57-4393-977a-d7402e497666)
-![WhatsApp Image 2026-04-08 at 01 37 03](https://github.com/user-attachments/assets/410bd758-39b7-45de-9231-4e7b3eb70f25)
-![WhatsApp Image 2026-04-08 at 01 34 34](https://github.com/user-attachments/assets/1ff47910-3182-4737-9592-cdca7cf668d7)
+<img width="348" height="762" alt="Screenshot 2026-04-08 013352" src="https://github.com/user-attachments/assets/dadceaf2-35b6-435a-bc0e-a3eaf846e90d" />
+<img width="347" height="769" alt="Screenshot 2026-04-08 013411" src="https://github.com/user-attachments/assets/12dd2354-2626-4b0f-94b0-a4fa9aae04c1" />
+<img width="350" height="774" alt="Screenshot 2026-04-08 013429" src="https://github.com/user-attachments/assets/668a642f-ba4e-45ef-83a2-a6b4777b2636" />
+<img width="375" height="764" alt="Screenshot 2026-04-08 013633" src="https://github.com/user-attachments/assets/e6af0abd-c9f8-4eb0-8c02-a5d4af0b7cc8" />
+<img width="368" height="770" alt="Screenshot 2026-04-08 013659" src="https://github.com/user-attachments/assets/a97f565e-93de-48e8-b5cd-eebaee889dbd" />
+
 
 lien code java : "https://github.com/fkasraoui5160-design/lab7/tree/main/app/src/main/java/com/example/starsgallery"
 
