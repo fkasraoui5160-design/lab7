@@ -8,3 +8,8 @@
 lien code java : "https://github.com/fkasraoui5160-design/lab7/tree/main/app/src/main/java/com/example/starsgallery"
 
 lien xml : "https://github.com/fkasraoui5160-design/lab7/tree/main/app/src/main/res/layout"    "https://github.com/fkasraoui5160-design/lab7/tree/main/app/src/main/res/menu"
+
+
+## 🎥 Démo du projet
+
+[![Voir la démo](https://img.youtube.com/vi/-dRGdGzFFnU/0.jpg)](https://www.youtube.com/watch?v=-dRGdGzFFnU)
